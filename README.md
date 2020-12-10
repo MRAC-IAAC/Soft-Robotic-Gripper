@@ -4,8 +4,10 @@ For the purpose of this excercise, we created a toolpath in which the soft gripp
 ![text](doc/InflatingDeflatingDiagram.jpg)
 
 # Requirements
-####3D Parts:
-#####For the syringe pump assembly
+**3D Parts:**
+
+**For the syringe pump assembly**
+
 * 50cm x 60cm Acrylic sheet
 * M3X16mm Screws (28)
 * M3X20mm Screws (14)
@@ -16,15 +18,16 @@ For the purpose of this excercise, we created a toolpath in which the soft gripp
 
 ![text](doc/ExplodedAxonofAcrylicBase.jpg)
 
-#####For the end effector
+**For the end effector**
 * Acrylic (laser file for the end effector is placed in the same file as the acrylic base)
 * EcoFlex 00-30 Silicone
 * 3D Printed Mold
 
 ![text](doc/InflatingEndEffectorModel.png)
 
-####Electronics:
-Parts
+**Electronics:**
+
+**Parts**
   * Arduino Uno
   * Nema 17 Stepper Motor
   * Stepper Driver (A4988)
@@ -39,7 +42,7 @@ Parts
   
 ![text](doc/BlockDiagram.jpg)
   
-####Softwares:
+**Softwares:**
 This project creates a simple syringe pump that is controlled by a stepper motor which receives signals from the optocoupler from an ABB140 Robotic Arm. A boolean statement is written within the arduino code, to determine whether the gripper inflates or deflates. 
 
  
