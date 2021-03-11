@@ -1,4 +1,4 @@
-# Hardware-1-Soft-Robotic-Gripper
+# Soft-Robotic-Gripper
 The initial idea is to explore the state of the art in the area of soft robotics. They consist of inflatable parts that allow the flexibiity to be able to grab objects with different profiles and delicate/ fragile items. 
 For the purpose of this excercise, we created a toolpath in which the soft gripper picks up a lightbulb and screws it into a desk lamp. 
 ![text](doc/InflatingDeflatingDiagram.jpg)
